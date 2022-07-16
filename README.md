@@ -5,6 +5,7 @@ App made with MongoDB, Express, React and Node where you can update your everyda
 Go through each folder and `npm install` to install all dependencies
 
 To start server: `npm run dev` --> will start nodemon server which updates on every change you make
+
 To start react: `npm start` --> will open up a window where the frontend is
 
 **Remember to move to /backend folder for server, and /frontend folder for react**
